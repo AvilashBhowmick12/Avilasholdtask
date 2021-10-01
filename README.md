@@ -7,7 +7,6 @@ hi i'm studying presently at MSIT first year
 
 **CITY** - *kolkata*  🏙️
 
-<img src="https://img.icon8.com/bubbles/100/000000/kolkata.png"/> 
 <img src="https://github.com/AvilashBhowmick12/task-last/blob/main/pexel%20X.jpg"/>
 
 ## college Details 
